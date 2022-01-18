@@ -7,7 +7,7 @@ autoload -Uz compinit && compinit
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
 #flutter
-export PATH="$PATH:/Users/felix/flutter/bin"
+export PATH="$PATH:/Users/carloseduardofabilagarcivana/flutter/bin"
 
 #npm
 export PATH=/usr/local/share/npm/bin:$PATH

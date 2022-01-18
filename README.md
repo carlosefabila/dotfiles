@@ -3,7 +3,7 @@ Setup of my dotfiles and terminal theme
 
 ```
 cd ~
-git clone git@github.com:i4guar/dotfiles.git
+git clone git@github.com:carlosefabila/dotfiles.git
 source ~/dotfiles/install.sh
 ```
 
